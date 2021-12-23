@@ -42,6 +42,7 @@
     .unit {
         display: flex;
         flex-direction: row;
+        width: 300px;
         margin: 10px;
     }
 
